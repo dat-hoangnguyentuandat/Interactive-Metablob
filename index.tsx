@@ -5,6 +5,7 @@ import { edgeTable, triTable } from './MarchingCubesTables.js';
 
 // --- Environments ---
 const environments = [
+    { name: 'Fiery Sky', url: 'the_sky_is_on_fire_1k.hdr' },
     { name: 'Small Studio', url: 'studio_small_03_1k.hdr' },
     { name: 'Warehouse', url: 'empty_warehouse_01_1k.hdr' },
     { name: 'Artist Workshop', url: 'artist_workshop_1k.hdr' },
@@ -14,7 +15,6 @@ const environments = [
     { name: 'Dawn', url: 'kiara_1_dawn_1k.hdr' },
     { name: 'Syferfontein', url: 'syferfontein_1d_clear_1k.hdr' },
     { name: 'Photo Studio', url: 'brown_photostudio_02_1k.hdr' },
-    { name: 'Fiery Sky', url: 'the_sky_is_on_fire_1k.hdr' },
     { name: 'Delta', url: 'delta_2_1k.hdr' },
     { name: 'Goegap', url: 'goegap_1k.hdr' },
     { name: 'Solitude', url: 'solitude_1k.hdr' }
