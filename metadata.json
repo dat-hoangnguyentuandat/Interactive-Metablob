@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Metablob",
+  "description": "An interactive 3D metablob visualization using Marching Cubes and Three.js, ported from a Swift/Metal demo.",
+  "requestFramePermissions": []
+}
